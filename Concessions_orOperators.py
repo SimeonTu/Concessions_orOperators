@@ -20,7 +20,5 @@ def get_message(student,age,message):
 
 get_message(student,age,message)
 
-print(message)
-
 print()
 input("Press return to continue ...")
